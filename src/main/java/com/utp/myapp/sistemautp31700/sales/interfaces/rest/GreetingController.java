@@ -13,7 +13,7 @@ public class GreetingController {
 
     @GetMapping
     public ResponseEntity<String> saludo(@RequestParam(defaultValue = "world") String name){
-        String saludo = "Hello " + name + "!";
+        String saludo = "Hello " + name + "You are the best developer of the world!";
         return ResponseEntity.ok(saludo);
     }
 }

@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.utp.myapp</groupId>
     <artifactId>sistema-utp-31700</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>sistema-utp-31700</name>
     <description>sistema-utp-31700</description>
     <url/>
